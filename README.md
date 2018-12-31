@@ -15,6 +15,7 @@ Now, merge the 1st part which doesn't conatin RsID with the mapping data file pr
 This will give us the coreesponding RsID for a given text in the Name column.
 
 After this, clean the extra characters associated with the RsID in the 2nd part. For this use the Cleaning.ipynb.
+
 ***Note--- In this 2nd part file, open the csv and replace all the '_' with '-'. Replace 'new' with 'new-'. Replace 'RS' with 'rs'.
            This has to be done otherwise some of the rows will be left blank.***
 
